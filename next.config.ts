@@ -1,8 +1,7 @@
-// next.config.js
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: "export",
-  basePath: "/JustinLawrencePortfolio",
-  assetPrefix: "/JustinLawrencePortfolio",
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  /* config options here */
 };
+
 export default nextConfig;
