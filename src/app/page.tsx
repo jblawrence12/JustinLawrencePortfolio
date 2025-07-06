@@ -245,7 +245,7 @@ export default function Home() {
         id="certifications"
         className="animate-fade-in-up container mx-auto px-4 py-24"
       >
-        <h2 className="text-3xl font-extrabold mb-10 text-center">Certifcations</h2>
+        <h2 className="text-3xl font-extrabold mb-10 text-center">Certifications</h2>
         <div className="space-y-10 max-w-3xl mx-auto">
           <div>
             <h3 className="font-semibold text-lg">
@@ -264,12 +264,12 @@ export default function Home() {
             <h3 className="font-semibold text-lg">
               CompTIA CySA+
               <span className="ml-2 text-slate-500 font-normal text-sm">
-                (In Progress)
+                
               </span>
             </h3>
             <ul className="mt-2 list-disc pl-6 text-sm text-slate-700 leading-relaxed">
               <li>
-                Cert ID:
+                Cert ID: In Progress
               </li>
             </ul>
           </div>
