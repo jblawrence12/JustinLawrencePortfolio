@@ -213,8 +213,8 @@ export default function Home() {
                 Built high-performance <strong>Next.js</strong> company site.
               </li>
               <li>
-                Provided on-site / remote support, automated workstation
-                roll-outs, hardened SMB networks.
+                Providing on-site and remote support for small businesses around greater Tri-Cities,
+                automated workstation updates, and security hardening.
               </li>
             </ul>
           </div>
